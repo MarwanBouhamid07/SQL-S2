@@ -1,0 +1,6 @@
+title
+"The Future of AI"
+"Mastering SQL Joins"
+"Healthy Morning Routines"
+"Web Development in 2026"
+"Travel on a Budget"
