@@ -1,0 +1,13 @@
+article_id	title	body_content	cover_image	status	author_id	cat_id	created_at	updated_at
+7	The Future of AI	Artificial Intelligence is changing the world...	NULL	published	1	1	2026-01-05 08:24:12	2026-01-05 08:24:12
+8	Mastering SQL Joins	Understanding how to join tables is crucial...	NULL	published	1	1	2026-01-05 08:24:12	2026-01-05 08:24:12
+9	Healthy Morning Routines	Starting your day right is the key to success...	NULL	draft	1	2	2026-01-05 08:24:12	2026-01-05 08:24:12
+10	Web Development in 2026	New frameworks are emerging every day...	NULL	published	1	1	2026-01-05 08:24:12	2026-01-05 08:24:12
+11	Travel on a Budget	You don't need a fortune to see the world...	NULL	archived	1	2	2026-01-05 08:24:12	2026-01-05 08:24:12
+12	Top 10 SQL Tips	Optimize your queries with these simple tricks...	NULL	published	1	1	2026-01-05 08:24:12	2026-01-05 08:24:12
+13	The Future of AI	Artificial Intelligence is changing the world...	NULL	published	1	1	2026-01-05 08:24:12	2026-01-05 08:24:12
+14	Mastering SQL Joins	Understanding how to join tables is crucial...	NULL	published	1	1	2026-01-05 08:24:12	2026-01-05 08:24:12
+15	Healthy Morning Routines	Starting your day right is the key to success...	NULL	draft	1	2	2026-01-05 08:24:12	2026-01-05 08:24:12
+16	Web Development in 2026	New frameworks are emerging every day...	NULL	published	1	1	2026-01-05 08:24:12	2026-01-05 08:24:12
+17	Travel on a Budget	You don't need a fortune to see the world...	NULL	archived	1	2	2026-01-05 08:24:12	2026-01-05 08:24:12
+18	Top 10 SQL Tips	Optimize your queries with these simple tricks...	NULL	published	1	1	2026-01-05 08:24:12	2026-01-05 08:24:12
